@@ -1,0 +1,19 @@
+{
+    "name": "pkariithi/hlm-php",
+    "description": "Headless modular PHP framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pkariithi",
+            "email": "patrickariithi@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "system/Functions.php",
+            "system/Boostrap.php"
+        ]
+    }
+}
